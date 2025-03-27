@@ -71,14 +71,18 @@ h2 {
 
 .kep {
 	width: 190px;
-	padding: 10px 10px;
-
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .kepalairas{
+<<<<<<< HEAD
 	text-align: center;
 	font-size: 9px;
 	
+=======
+
+>>>>>>> fcd7ebd1f4f9bff5b815567198789d781b4ee0e3
 }
 
 .szurke{

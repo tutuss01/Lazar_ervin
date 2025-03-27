@@ -51,7 +51,7 @@ h2 {
 }
 
 #oszlop1, #oszlop3 {
-
+	width: 220px;
 	float: left;
 	padding: 0px;
 	background-color: #ffffff;
@@ -62,6 +62,7 @@ h2 {
 	float: left;
 	padding: 0px;
 	background-color: #ffffff;
+	width: 560px;
 }
 
 #lablec {
@@ -76,13 +77,8 @@ h2 {
 }
 
 .kepalairas{
-<<<<<<< HEAD
 	text-align: center;
 	font-size: 9px;
-	
-=======
-
->>>>>>> fcd7ebd1f4f9bff5b815567198789d781b4ee0e3
 }
 
 .szurke{
